@@ -16,7 +16,7 @@ Projeto criado como exemplo para o artigo postado no [Medium](https://medium.com
 
 <p align="middle">
 <div width="25%"></div>
-<img src="https://github.com/jonathan1313/houseasy-teste-frontend/blob/main/assets/screenshots/randomovie_screenshot02.jpeg" width="20%">
+<img src="https://github.com/jonathan1313/Flutter-UI-Components/blob/main/assets/images/preview.gif" width="48%">
 <div width="25%"></div>
 </p>
 
